@@ -155,6 +155,7 @@ This dashboard supports:
 
 ## 🖼 Dashboard Preview
 <img width="602" height="336" alt="image" src="https://github.com/user-attachments/assets/277fd320-c0fb-4dec-bea3-509f66e0fdb5" />
+
 ---
 
 ## 👨‍💻 Author
