@@ -11,6 +11,12 @@ The project demonstrates expertise in **Excel analytics, data cleaning, KPI repo
 
 ---
 
+## 🔗 View My Live Dashboard
+👉 Click here to open:  
+**Live Dashboard:** https://1drv.ms/x/c/26451b5f99c986c0/IQDdfP-il4BxQYSXprmz6NMrAZpcmU27d4VOVfswS5y5u9A?e=b0NHfZ
+
+---
+
 ## 🎯 Project Goals
 - Analyze **UK road traffic accident trends** across multiple years  
 - Track casualty severity levels (**Fatal, Serious, Slight**)  
